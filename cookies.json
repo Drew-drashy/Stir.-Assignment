@@ -1,0 +1,13 @@
+[
+    {"name": "auth_token", "value": "e9359112678fb951364a5fc7a63b7e8ac218a6c4", "domain": ".x.com", "path": "/"},
+    {"name": "ct0", "value": "7e47b8c7b84001790fdd960cbfb1410943c77fa5bc4aa1e61dd8276d68793961ed86b3a4a9394fbb8b8df370fe2090e9c3de52b4199f64ecaafbde707afcf8462c9bf05b3e0e05f73fe2fc0bfdd17bba", "domain": ".x.com", "path": "/"},
+    {"name": "g_state", "value": "{\"i_l\":0}", "domain": ".x.com", "path": "/"},
+    {"name": "guest_id", "value": "v1%3A172624103381263164", "domain": ".x.com", "path": "/"},
+    {"name": "guest_id_ads", "value": "v1%3A172624103381263164", "domain": ".x.com", "path": "/"},
+    {"name": "guest_id_marketing", "value": "v1%3A172624103381263164", "domain": ".x.com", "path": "/"},
+    {"name": "kdt", "value": "Qaf7nx5HEN82BmjUgatwlMAd5FbWotZU32Ml2Ltu", "domain": ".x.com", "path": "/"},
+    {"name": "lang", "value": "en", "domain": ".x.com", "path": "/"},
+    {"name": "night_mode", "value": "2", "domain": ".x.com", "path": "/"},
+    {"name": "personalization_id", "value": "\"v1_fQpaKrl4dvCYbsSjWSEFkA==\"", "domain": ".x.com", "path": "/"},
+    {"name": "twid", "value": "u%3D1871821875044851712", "domain": ".x.com", "path": "/"}
+]
